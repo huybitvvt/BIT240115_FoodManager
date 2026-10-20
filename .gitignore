@@ -38,7 +38,6 @@ playwright-report/
 artifacts/
 
 # Local instructions and handover documents are not part of the submission.
-/README.md
 /docs/
 /AGENTS.md
 /.claude/
